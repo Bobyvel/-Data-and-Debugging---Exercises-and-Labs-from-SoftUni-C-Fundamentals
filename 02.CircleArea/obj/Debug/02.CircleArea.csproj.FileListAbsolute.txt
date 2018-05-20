@@ -1,0 +1,7 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02\bin\Debug\02.exe.config
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02\bin\Debug\02.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02\bin\Debug\02.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02\obj\Debug\02.CircleArea.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02\obj\Debug\02.CircleArea.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02\obj\Debug\02.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02\obj\Debug\02.pdb

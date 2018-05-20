@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\bin\Debug\netcoreapp2.0\10.DataOverflow.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\bin\Debug\netcoreapp2.0\10.DataOverflow.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\bin\Debug\netcoreapp2.0\10.DataOverflow.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\bin\Debug\netcoreapp2.0\10.DataOverflow.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\bin\Debug\netcoreapp2.0\10.DataOverflow.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\obj\Debug\netcoreapp2.0\10.DataOverflow.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\obj\Debug\netcoreapp2.0\10.DataOverflow.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\obj\Debug\netcoreapp2.0\10.DataOverflow.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\obj\Debug\netcoreapp2.0\10.DataOverflow.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\obj\Debug\netcoreapp2.0\10.DataOverflow.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.DataOverflow\obj\Debug\netcoreapp2.0\10.DataOverflow.pdb

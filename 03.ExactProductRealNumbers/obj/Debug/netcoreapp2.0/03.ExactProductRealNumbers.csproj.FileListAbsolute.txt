@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.ExactProductRealNumbers\bin\Debug\netcoreapp2.0\03.ExactProductRealNumbers.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.ExactProductRealNumbers\bin\Debug\netcoreapp2.0\03.ExactProductRealNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.ExactProductRealNumbers\bin\Debug\netcoreapp2.0\03.ExactProductRealNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.ExactProductRealNumbers\bin\Debug\netcoreapp2.0\03.ExactProductRealNumbers.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.ExactProductRealNumbers\bin\Debug\netcoreapp2.0\03.ExactProductRealNumbers.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.ExactProductRealNumbers\obj\Debug\netcoreapp2.0\03.ExactProductRealNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.ExactProductRealNumbers\obj\Debug\netcoreapp2.0\03.ExactProductRealNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.ExactProductRealNumbers\obj\Debug\netcoreapp2.0\03.ExactProductRealNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.ExactProductRealNumbers\obj\Debug\netcoreapp2.0\03.ExactProductRealNumbers.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.ExactProductRealNumbers\obj\Debug\netcoreapp2.0\03.ExactProductRealNumbers.pdb

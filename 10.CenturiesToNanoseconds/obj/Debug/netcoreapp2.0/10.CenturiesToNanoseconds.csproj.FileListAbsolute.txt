@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10.CenturiesToNanoseconds.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10.CenturiesToNanoseconds.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10.CenturiesToNanoseconds.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10.CenturiesToNanoseconds.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.CenturiesToNanoseconds\bin\Debug\netcoreapp2.0\10.CenturiesToNanoseconds.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10.CenturiesToNanoseconds.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10.CenturiesToNanoseconds.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10.CenturiesToNanoseconds.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10.CenturiesToNanoseconds.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.CenturiesToNanoseconds\obj\Debug\netcoreapp2.0\10.CenturiesToNanoseconds.pdb

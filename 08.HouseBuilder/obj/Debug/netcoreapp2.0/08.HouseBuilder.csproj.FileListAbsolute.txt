@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\bin\Debug\netcoreapp2.0\08.HouseBuilder.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\bin\Debug\netcoreapp2.0\08.HouseBuilder.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\bin\Debug\netcoreapp2.0\08.HouseBuilder.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\bin\Debug\netcoreapp2.0\08.HouseBuilder.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\bin\Debug\netcoreapp2.0\08.HouseBuilder.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\obj\Debug\netcoreapp2.0\08.HouseBuilder.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\obj\Debug\netcoreapp2.0\08.HouseBuilder.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\obj\Debug\netcoreapp2.0\08.HouseBuilder.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\obj\Debug\netcoreapp2.0\08.HouseBuilder.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\obj\Debug\netcoreapp2.0\08.HouseBuilder.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.HouseBuilder\obj\Debug\netcoreapp2.0\08.HouseBuilder.pdb

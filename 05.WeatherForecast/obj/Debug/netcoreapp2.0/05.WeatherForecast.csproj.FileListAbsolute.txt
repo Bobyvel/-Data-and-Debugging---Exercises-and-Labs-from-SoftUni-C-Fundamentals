@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\bin\Debug\netcoreapp2.0\05.WeatherForecast.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\bin\Debug\netcoreapp2.0\05.WeatherForecast.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\bin\Debug\netcoreapp2.0\05.WeatherForecast.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\bin\Debug\netcoreapp2.0\05.WeatherForecast.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\bin\Debug\netcoreapp2.0\05.WeatherForecast.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\obj\Debug\netcoreapp2.0\05.WeatherForecast.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\obj\Debug\netcoreapp2.0\05.WeatherForecast.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\obj\Debug\netcoreapp2.0\05.WeatherForecast.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\obj\Debug\netcoreapp2.0\05.WeatherForecast.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\obj\Debug\netcoreapp2.0\05.WeatherForecast.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.WeatherForecast\obj\Debug\netcoreapp2.0\05.WeatherForecast.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\bin\Debug\netcoreapp2.0\09.MakeWord.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\bin\Debug\netcoreapp2.0\09.MakeWord.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\bin\Debug\netcoreapp2.0\09.MakeWord.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\bin\Debug\netcoreapp2.0\09.MakeWord.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\bin\Debug\netcoreapp2.0\09.MakeWord.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\obj\Debug\netcoreapp2.0\09.MakeWord.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\obj\Debug\netcoreapp2.0\09.MakeWord.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\obj\Debug\netcoreapp2.0\09.MakeWord.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\obj\Debug\netcoreapp2.0\09.MakeWord.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\obj\Debug\netcoreapp2.0\09.MakeWord.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.MakeWord\obj\Debug\netcoreapp2.0\09.MakeWord.pdb

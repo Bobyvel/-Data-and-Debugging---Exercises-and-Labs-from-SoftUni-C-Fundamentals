@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\bin\Debug\netcoreapp2.0\02.RealNumberTypes.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\bin\Debug\netcoreapp2.0\02.RealNumberTypes.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\bin\Debug\netcoreapp2.0\02.RealNumberTypes.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\bin\Debug\netcoreapp2.0\02.RealNumberTypes.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\bin\Debug\netcoreapp2.0\02.RealNumberTypes.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\obj\Debug\netcoreapp2.0\02.RealNumberTypes.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\obj\Debug\netcoreapp2.0\02.RealNumberTypes.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\obj\Debug\netcoreapp2.0\02.RealNumberTypes.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\obj\Debug\netcoreapp2.0\02.RealNumberTypes.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\obj\Debug\netcoreapp2.0\02.RealNumberTypes.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.RealNumberTypes\obj\Debug\netcoreapp2.0\02.RealNumberTypes.pdb

@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TimeSinceBirthday\bin\Debug\netcoreapp2.0\01.TimeSinceBirthday.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TimeSinceBirthday\bin\Debug\netcoreapp2.0\01.TimeSinceBirthday.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TimeSinceBirthday\bin\Debug\netcoreapp2.0\01.TimeSinceBirthday.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TimeSinceBirthday\bin\Debug\netcoreapp2.0\01.TimeSinceBirthday.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TimeSinceBirthday\bin\Debug\netcoreapp2.0\01.TimeSinceBirthday.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TimeSinceBirthday\obj\Debug\netcoreapp2.0\01.TimeSinceBirthday.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TimeSinceBirthday\obj\Debug\netcoreapp2.0\01.TimeSinceBirthday.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TimeSinceBirthday\obj\Debug\netcoreapp2.0\01.TimeSinceBirthday.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TimeSinceBirthday\obj\Debug\netcoreapp2.0\01.TimeSinceBirthday.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TimeSinceBirthday\obj\Debug\netcoreapp2.0\01.TimeSinceBirthday.pdb

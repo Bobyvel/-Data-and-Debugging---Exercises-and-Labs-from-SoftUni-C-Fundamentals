@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.CirclePerimeter\bin\Debug\netcoreapp2.0\02.CirclePerimeter.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.CirclePerimeter\bin\Debug\netcoreapp2.0\02.CirclePerimeter.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.CirclePerimeter\bin\Debug\netcoreapp2.0\02.CirclePerimeter.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.CirclePerimeter\bin\Debug\netcoreapp2.0\02.CirclePerimeter.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.CirclePerimeter\bin\Debug\netcoreapp2.0\02.CirclePerimeter.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.CirclePerimeter\obj\Debug\netcoreapp2.0\02.CirclePerimeter.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.CirclePerimeter\obj\Debug\netcoreapp2.0\02.CirclePerimeter.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.CirclePerimeter\obj\Debug\netcoreapp2.0\02.CirclePerimeter.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.CirclePerimeter\obj\Debug\netcoreapp2.0\02.CirclePerimeter.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.CirclePerimeter\obj\Debug\netcoreapp2.0\02.CirclePerimeter.pdb

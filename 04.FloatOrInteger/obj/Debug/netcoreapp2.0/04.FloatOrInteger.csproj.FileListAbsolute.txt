@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.FloatOrInteger\bin\Debug\netcoreapp2.0\04.FloatOrInteger.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.FloatOrInteger\bin\Debug\netcoreapp2.0\04.FloatOrInteger.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.FloatOrInteger\bin\Debug\netcoreapp2.0\04.FloatOrInteger.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.FloatOrInteger\bin\Debug\netcoreapp2.0\04.FloatOrInteger.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.FloatOrInteger\bin\Debug\netcoreapp2.0\04.FloatOrInteger.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.FloatOrInteger\obj\Debug\netcoreapp2.0\04.FloatOrInteger.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.FloatOrInteger\obj\Debug\netcoreapp2.0\04.FloatOrInteger.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.FloatOrInteger\obj\Debug\netcoreapp2.0\04.FloatOrInteger.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.FloatOrInteger\obj\Debug\netcoreapp2.0\04.FloatOrInteger.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.FloatOrInteger\obj\Debug\netcoreapp2.0\04.FloatOrInteger.pdb

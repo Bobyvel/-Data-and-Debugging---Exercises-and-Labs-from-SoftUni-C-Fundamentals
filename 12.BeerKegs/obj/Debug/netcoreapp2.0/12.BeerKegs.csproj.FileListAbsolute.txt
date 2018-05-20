@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\12.BeerKegs\bin\Debug\netcoreapp2.0\12.BeerKegs.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\12.BeerKegs\bin\Debug\netcoreapp2.0\12.BeerKegs.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\12.BeerKegs\bin\Debug\netcoreapp2.0\12.BeerKegs.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\12.BeerKegs\bin\Debug\netcoreapp2.0\12.BeerKegs.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\12.BeerKegs\bin\Debug\netcoreapp2.0\12.BeerKegs.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\12.BeerKegs\obj\Debug\netcoreapp2.0\12.BeerKegs.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\12.BeerKegs\obj\Debug\netcoreapp2.0\12.BeerKegs.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\12.BeerKegs\obj\Debug\netcoreapp2.0\12.BeerKegs.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\12.BeerKegs\obj\Debug\netcoreapp2.0\12.BeerKegs.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\12.BeerKegs\obj\Debug\netcoreapp2.0\12.BeerKegs.pdb

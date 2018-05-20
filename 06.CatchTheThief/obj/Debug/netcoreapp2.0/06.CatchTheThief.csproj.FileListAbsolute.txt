@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\bin\Debug\netcoreapp2.0\06.CatchTheThief.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\bin\Debug\netcoreapp2.0\06.CatchTheThief.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\bin\Debug\netcoreapp2.0\06.CatchTheThief.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\bin\Debug\netcoreapp2.0\06.CatchTheThief.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\bin\Debug\netcoreapp2.0\06.CatchTheThief.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\obj\Debug\netcoreapp2.0\06.CatchTheThief.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\obj\Debug\netcoreapp2.0\06.CatchTheThief.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\obj\Debug\netcoreapp2.0\06.CatchTheThief.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\obj\Debug\netcoreapp2.0\06.CatchTheThief.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\obj\Debug\netcoreapp2.0\06.CatchTheThief.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.CatchTheThief\obj\Debug\netcoreapp2.0\06.CatchTheThief.pdb

@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.StringConcatenation\bin\Debug\netcoreapp2.0\11.StringConcatenation.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.StringConcatenation\bin\Debug\netcoreapp2.0\11.StringConcatenation.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.StringConcatenation\bin\Debug\netcoreapp2.0\11.StringConcatenation.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.StringConcatenation\bin\Debug\netcoreapp2.0\11.StringConcatenation.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.StringConcatenation\bin\Debug\netcoreapp2.0\11.StringConcatenation.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.StringConcatenation\obj\Debug\netcoreapp2.0\11.StringConcatenation.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.StringConcatenation\obj\Debug\netcoreapp2.0\11.StringConcatenation.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.StringConcatenation\obj\Debug\netcoreapp2.0\11.StringConcatenation.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.StringConcatenation\obj\Debug\netcoreapp2.0\11.StringConcatenation.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.StringConcatenation\obj\Debug\netcoreapp2.0\11.StringConcatenation.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\bin\Debug\netcoreapp2.0\04.TouristInformation.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\bin\Debug\netcoreapp2.0\04.TouristInformation.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\bin\Debug\netcoreapp2.0\04.TouristInformation.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\bin\Debug\netcoreapp2.0\04.TouristInformation.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\bin\Debug\netcoreapp2.0\04.TouristInformation.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\obj\Debug\netcoreapp2.0\04.TouristInformation.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\obj\Debug\netcoreapp2.0\04.TouristInformation.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\obj\Debug\netcoreapp2.0\04.TouristInformation.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\obj\Debug\netcoreapp2.0\04.TouristInformation.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\obj\Debug\netcoreapp2.0\04.TouristInformation.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.TouristInformation\obj\Debug\netcoreapp2.0\04.TouristInformation.pdb

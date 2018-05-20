@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\14.BoatSimulator\bin\Debug\netcoreapp2.0\14.BoatSimulator.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\14.BoatSimulator\bin\Debug\netcoreapp2.0\14.BoatSimulator.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\14.BoatSimulator\bin\Debug\netcoreapp2.0\14.BoatSimulator.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\14.BoatSimulator\bin\Debug\netcoreapp2.0\14.BoatSimulator.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\14.BoatSimulator\bin\Debug\netcoreapp2.0\14.BoatSimulator.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\14.BoatSimulator\obj\Debug\netcoreapp2.0\14.BoatSimulator.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\14.BoatSimulator\obj\Debug\netcoreapp2.0\14.BoatSimulator.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\14.BoatSimulator\obj\Debug\netcoreapp2.0\14.BoatSimulator.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\14.BoatSimulator\obj\Debug\netcoreapp2.0\14.BoatSimulator.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\14.BoatSimulator\obj\Debug\netcoreapp2.0\14.BoatSimulator.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\bin\Debug\netcoreapp2.0\15.BalancedBrackets.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\bin\Debug\netcoreapp2.0\15.BalancedBrackets.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\bin\Debug\netcoreapp2.0\15.BalancedBrackets.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\bin\Debug\netcoreapp2.0\15.BalancedBrackets.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\bin\Debug\netcoreapp2.0\15.BalancedBrackets.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\obj\Debug\netcoreapp2.0\15.BalancedBrackets.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\obj\Debug\netcoreapp2.0\15.BalancedBrackets.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\obj\Debug\netcoreapp2.0\15.BalancedBrackets.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\obj\Debug\netcoreapp2.0\15.BalancedBrackets.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\obj\Debug\netcoreapp2.0\15.BalancedBrackets.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\15.BalancedBrackets\obj\Debug\netcoreapp2.0\15.BalancedBrackets.csprojResolveAssemblyReference.cache

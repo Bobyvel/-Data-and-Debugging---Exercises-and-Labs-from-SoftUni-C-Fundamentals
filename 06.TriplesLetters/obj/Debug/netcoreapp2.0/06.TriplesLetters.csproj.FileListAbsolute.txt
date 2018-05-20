@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.TriplesLetters\bin\Debug\netcoreapp2.0\06.TriplesLetters.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.TriplesLetters\bin\Debug\netcoreapp2.0\06.TriplesLetters.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.TriplesLetters\bin\Debug\netcoreapp2.0\06.TriplesLetters.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.TriplesLetters\bin\Debug\netcoreapp2.0\06.TriplesLetters.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.TriplesLetters\bin\Debug\netcoreapp2.0\06.TriplesLetters.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.TriplesLetters\obj\Debug\netcoreapp2.0\06.TriplesLetters.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.TriplesLetters\obj\Debug\netcoreapp2.0\06.TriplesLetters.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.TriplesLetters\obj\Debug\netcoreapp2.0\06.TriplesLetters.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.TriplesLetters\obj\Debug\netcoreapp2.0\06.TriplesLetters.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.TriplesLetters\obj\Debug\netcoreapp2.0\06.TriplesLetters.pdb

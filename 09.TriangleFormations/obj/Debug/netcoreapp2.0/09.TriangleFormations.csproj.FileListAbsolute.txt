@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\bin\Debug\netcoreapp2.0\09.TriangleFormations.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\bin\Debug\netcoreapp2.0\09.TriangleFormations.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\bin\Debug\netcoreapp2.0\09.TriangleFormations.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\bin\Debug\netcoreapp2.0\09.TriangleFormations.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\bin\Debug\netcoreapp2.0\09.TriangleFormations.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\obj\Debug\netcoreapp2.0\09.TriangleFormations.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\obj\Debug\netcoreapp2.0\09.TriangleFormations.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\obj\Debug\netcoreapp2.0\09.TriangleFormations.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\obj\Debug\netcoreapp2.0\09.TriangleFormations.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\obj\Debug\netcoreapp2.0\09.TriangleFormations.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\09.TriangleFormations\obj\Debug\netcoreapp2.0\09.TriangleFormations.pdb

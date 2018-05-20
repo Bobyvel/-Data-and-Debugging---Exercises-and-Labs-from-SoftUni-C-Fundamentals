@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.IncrementVariable\bin\Debug\netcoreapp2.0\06.IncrementVariable.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.IncrementVariable\bin\Debug\netcoreapp2.0\06.IncrementVariable.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.IncrementVariable\bin\Debug\netcoreapp2.0\06.IncrementVariable.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.IncrementVariable\bin\Debug\netcoreapp2.0\06.IncrementVariable.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.IncrementVariable\bin\Debug\netcoreapp2.0\06.IncrementVariable.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.IncrementVariable\obj\Debug\netcoreapp2.0\06.IncrementVariable.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.IncrementVariable\obj\Debug\netcoreapp2.0\06.IncrementVariable.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.IncrementVariable\obj\Debug\netcoreapp2.0\06.IncrementVariable.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.IncrementVariable\obj\Debug\netcoreapp2.0\06.IncrementVariable.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\06.IncrementVariable\obj\Debug\netcoreapp2.0\06.IncrementVariable.pdb

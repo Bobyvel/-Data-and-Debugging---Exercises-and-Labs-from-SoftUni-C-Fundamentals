@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Transport\bin\Debug\netcoreapp2.0\04.Transport.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Transport\bin\Debug\netcoreapp2.0\04.Transport.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Transport\bin\Debug\netcoreapp2.0\04.Transport.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Transport\bin\Debug\netcoreapp2.0\04.Transport.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Transport\bin\Debug\netcoreapp2.0\04.Transport.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Transport\obj\Debug\netcoreapp2.0\04.Transport.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Transport\obj\Debug\netcoreapp2.0\04.Transport.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Transport\obj\Debug\netcoreapp2.0\04.Transport.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Transport\obj\Debug\netcoreapp2.0\04.Transport.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Transport\obj\Debug\netcoreapp2.0\04.Transport.pdb

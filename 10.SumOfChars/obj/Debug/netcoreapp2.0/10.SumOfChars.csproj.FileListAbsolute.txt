@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.SumOfChars\bin\Debug\netcoreapp2.0\10.SumOfChars.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.SumOfChars\bin\Debug\netcoreapp2.0\10.SumOfChars.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.SumOfChars\bin\Debug\netcoreapp2.0\10.SumOfChars.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.SumOfChars\bin\Debug\netcoreapp2.0\10.SumOfChars.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.SumOfChars\bin\Debug\netcoreapp2.0\10.SumOfChars.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.SumOfChars\obj\Debug\netcoreapp2.0\10.SumOfChars.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.SumOfChars\obj\Debug\netcoreapp2.0\10.SumOfChars.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.SumOfChars\obj\Debug\netcoreapp2.0\10.SumOfChars.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.SumOfChars\obj\Debug\netcoreapp2.0\10.SumOfChars.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\10.SumOfChars\obj\Debug\netcoreapp2.0\10.SumOfChars.pdb

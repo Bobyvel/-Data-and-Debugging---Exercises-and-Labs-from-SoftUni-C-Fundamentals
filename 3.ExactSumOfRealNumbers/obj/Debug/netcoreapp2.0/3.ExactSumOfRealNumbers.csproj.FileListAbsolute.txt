@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\bin\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals - Part2\Progr. Fundamentals - Part2\3.ExactSumOfRealNumbers\obj\Debug\netcoreapp2.0\3.ExactSumOfRealNumbers.pdb

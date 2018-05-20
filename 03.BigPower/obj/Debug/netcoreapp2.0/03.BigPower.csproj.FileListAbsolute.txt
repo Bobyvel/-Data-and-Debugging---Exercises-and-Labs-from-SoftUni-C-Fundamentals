@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.BigPower\bin\Debug\netcoreapp2.0\03.BigPower.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.BigPower\bin\Debug\netcoreapp2.0\03.BigPower.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.BigPower\bin\Debug\netcoreapp2.0\03.BigPower.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.BigPower\bin\Debug\netcoreapp2.0\03.BigPower.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.BigPower\bin\Debug\netcoreapp2.0\03.BigPower.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.BigPower\obj\Debug\netcoreapp2.0\03.BigPower.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.BigPower\obj\Debug\netcoreapp2.0\03.BigPower.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.BigPower\obj\Debug\netcoreapp2.0\03.BigPower.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.BigPower\obj\Debug\netcoreapp2.0\03.BigPower.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.BigPower\obj\Debug\netcoreapp2.0\03.BigPower.pdb

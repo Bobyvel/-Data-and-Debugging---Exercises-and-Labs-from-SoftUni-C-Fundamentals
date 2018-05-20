@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.Special_Numbers\bin\Debug\netcoreapp2.0\05.Special_Numbers.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.Special_Numbers\bin\Debug\netcoreapp2.0\05.Special_Numbers.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.Special_Numbers\bin\Debug\netcoreapp2.0\05.Special_Numbers.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.Special_Numbers\bin\Debug\netcoreapp2.0\05.Special_Numbers.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.Special_Numbers\bin\Debug\netcoreapp2.0\05.Special_Numbers.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.Special_Numbers\obj\Debug\netcoreapp2.0\05.Special_Numbers.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.Special_Numbers\obj\Debug\netcoreapp2.0\05.Special_Numbers.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.Special_Numbers\obj\Debug\netcoreapp2.0\05.Special_Numbers.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.Special_Numbers\obj\Debug\netcoreapp2.0\05.Special_Numbers.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\05.Special_Numbers\obj\Debug\netcoreapp2.0\05.Special_Numbers.pdb

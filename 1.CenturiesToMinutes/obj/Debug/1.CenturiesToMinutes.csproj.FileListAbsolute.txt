@@ -1,0 +1,7 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\1.CenturiesToMinutes\bin\Debug\1.CenturiesToMinutes.exe.config
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\1.CenturiesToMinutes\bin\Debug\1.CenturiesToMinutes.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\1.CenturiesToMinutes\bin\Debug\1.CenturiesToMinutes.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\1.CenturiesToMinutes\obj\Debug\1.CenturiesToMinutes.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\1.CenturiesToMinutes\obj\Debug\1.CenturiesToMinutes.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\1.CenturiesToMinutes\obj\Debug\1.CenturiesToMinutes.exe
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\1.CenturiesToMinutes\obj\Debug\1.CenturiesToMinutes.pdb

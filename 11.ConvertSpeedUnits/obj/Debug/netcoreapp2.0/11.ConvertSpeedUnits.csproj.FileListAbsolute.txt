@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.ConvertSpeedUnits\bin\Debug\netcoreapp2.0\11.ConvertSpeedUnits.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.ConvertSpeedUnits\bin\Debug\netcoreapp2.0\11.ConvertSpeedUnits.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.ConvertSpeedUnits\bin\Debug\netcoreapp2.0\11.ConvertSpeedUnits.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.ConvertSpeedUnits\bin\Debug\netcoreapp2.0\11.ConvertSpeedUnits.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.ConvertSpeedUnits\bin\Debug\netcoreapp2.0\11.ConvertSpeedUnits.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11.ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11.ConvertSpeedUnits.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11.ConvertSpeedUnits.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11.ConvertSpeedUnits.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\11.ConvertSpeedUnits\obj\Debug\netcoreapp2.0\11.ConvertSpeedUnits.pdb

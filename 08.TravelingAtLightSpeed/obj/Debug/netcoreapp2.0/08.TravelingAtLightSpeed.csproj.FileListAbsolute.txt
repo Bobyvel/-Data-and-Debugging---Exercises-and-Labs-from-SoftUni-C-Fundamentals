@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.TravelingAtLightSpeed\bin\Debug\netcoreapp2.0\08.TravelingAtLightSpeed.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.TravelingAtLightSpeed\bin\Debug\netcoreapp2.0\08.TravelingAtLightSpeed.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.TravelingAtLightSpeed\bin\Debug\netcoreapp2.0\08.TravelingAtLightSpeed.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.TravelingAtLightSpeed\bin\Debug\netcoreapp2.0\08.TravelingAtLightSpeed.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.TravelingAtLightSpeed\bin\Debug\netcoreapp2.0\08.TravelingAtLightSpeed.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.TravelingAtLightSpeed\obj\Debug\netcoreapp2.0\08.TravelingAtLightSpeed.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.TravelingAtLightSpeed\obj\Debug\netcoreapp2.0\08.TravelingAtLightSpeed.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.TravelingAtLightSpeed\obj\Debug\netcoreapp2.0\08.TravelingAtLightSpeed.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.TravelingAtLightSpeed\obj\Debug\netcoreapp2.0\08.TravelingAtLightSpeed.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\08.TravelingAtLightSpeed\obj\Debug\netcoreapp2.0\08.TravelingAtLightSpeed.pdb

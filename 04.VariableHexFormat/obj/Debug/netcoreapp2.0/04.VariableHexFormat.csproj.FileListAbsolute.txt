@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\bin\Debug\netcoreapp2.0\04.VariableHexFormat.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\bin\Debug\netcoreapp2.0\04.VariableHexFormat.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\bin\Debug\netcoreapp2.0\04.VariableHexFormat.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\bin\Debug\netcoreapp2.0\04.VariableHexFormat.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\bin\Debug\netcoreapp2.0\04.VariableHexFormat.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\obj\Debug\netcoreapp2.0\04.VariableHexFormat.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\obj\Debug\netcoreapp2.0\04.VariableHexFormat.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\obj\Debug\netcoreapp2.0\04.VariableHexFormat.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\obj\Debug\netcoreapp2.0\04.VariableHexFormat.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\obj\Debug\netcoreapp2.0\04.VariableHexFormat.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.VariableHexFormat\obj\Debug\netcoreapp2.0\04.VariableHexFormat.pdb

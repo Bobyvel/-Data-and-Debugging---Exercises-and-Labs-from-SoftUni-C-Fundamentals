@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\bin\Debug\netcoreapp2.0\17. CypherRoulette.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\bin\Debug\netcoreapp2.0\17. CypherRoulette.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\bin\Debug\netcoreapp2.0\17. CypherRoulette.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\bin\Debug\netcoreapp2.0\17. CypherRoulette.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\bin\Debug\netcoreapp2.0\17. CypherRoulette.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\obj\Debug\netcoreapp2.0\17. CypherRoulette.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\obj\Debug\netcoreapp2.0\17. CypherRoulette.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\obj\Debug\netcoreapp2.0\17. CypherRoulette.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\obj\Debug\netcoreapp2.0\17. CypherRoulette.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\obj\Debug\netcoreapp2.0\17. CypherRoulette.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17. CypherRoulette\obj\Debug\netcoreapp2.0\17. CypherRoulette.pdb

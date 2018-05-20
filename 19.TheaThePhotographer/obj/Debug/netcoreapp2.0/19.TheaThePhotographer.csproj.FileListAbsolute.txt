@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\bin\Debug\netcoreapp2.0\19.TheaThePhotographer.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\bin\Debug\netcoreapp2.0\19.TheaThePhotographer.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\bin\Debug\netcoreapp2.0\19.TheaThePhotographer.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\bin\Debug\netcoreapp2.0\19.TheaThePhotographer.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\bin\Debug\netcoreapp2.0\19.TheaThePhotographer.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\obj\Debug\netcoreapp2.0\19.TheaThePhotographer.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\obj\Debug\netcoreapp2.0\19.TheaThePhotographer.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\obj\Debug\netcoreapp2.0\19.TheaThePhotographer.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\obj\Debug\netcoreapp2.0\19.TheaThePhotographer.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\obj\Debug\netcoreapp2.0\19.TheaThePhotographer.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\19.TheaThePhotographer\obj\Debug\netcoreapp2.0\19.TheaThePhotographer.pdb

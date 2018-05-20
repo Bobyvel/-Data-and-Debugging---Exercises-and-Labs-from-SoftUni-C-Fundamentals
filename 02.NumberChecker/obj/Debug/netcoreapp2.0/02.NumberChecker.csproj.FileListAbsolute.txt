@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.NumberChecker\bin\Debug\netcoreapp2.0\02.NumberChecker.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.NumberChecker\bin\Debug\netcoreapp2.0\02.NumberChecker.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.NumberChecker\bin\Debug\netcoreapp2.0\02.NumberChecker.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.NumberChecker\bin\Debug\netcoreapp2.0\02.NumberChecker.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.NumberChecker\bin\Debug\netcoreapp2.0\02.NumberChecker.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.NumberChecker\obj\Debug\netcoreapp2.0\02.NumberChecker.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.NumberChecker\obj\Debug\netcoreapp2.0\02.NumberChecker.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.NumberChecker\obj\Debug\netcoreapp2.0\02.NumberChecker.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.NumberChecker\obj\Debug\netcoreapp2.0\02.NumberChecker.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\02.NumberChecker\obj\Debug\netcoreapp2.0\02.NumberChecker.pdb

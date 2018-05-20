@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\bin\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\bin\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\bin\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\bin\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\bin\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\17.PrintPartOfASCIITable\obj\Debug\netcoreapp2.0\17.PrintPartOfASCIITable.pdb

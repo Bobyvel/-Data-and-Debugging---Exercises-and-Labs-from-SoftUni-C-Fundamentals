@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\bin\Debug\netcoreapp2.0\03.WaterOverflow.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\bin\Debug\netcoreapp2.0\03.WaterOverflow.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\bin\Debug\netcoreapp2.0\03.WaterOverflow.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\bin\Debug\netcoreapp2.0\03.WaterOverflow.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\bin\Debug\netcoreapp2.0\03.WaterOverflow.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\obj\Debug\netcoreapp2.0\03.WaterOverflow.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\obj\Debug\netcoreapp2.0\03.WaterOverflow.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\obj\Debug\netcoreapp2.0\03.WaterOverflow.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\obj\Debug\netcoreapp2.0\03.WaterOverflow.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\obj\Debug\netcoreapp2.0\03.WaterOverflow.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\03.WaterOverflow\obj\Debug\netcoreapp2.0\03.WaterOverflow.pdb

@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\bin\Debug\netcoreapp2.0\01.TypeBoundaries.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\bin\Debug\netcoreapp2.0\01.TypeBoundaries.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\bin\Debug\netcoreapp2.0\01.TypeBoundaries.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\bin\Debug\netcoreapp2.0\01.TypeBoundaries.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\bin\Debug\netcoreapp2.0\01.TypeBoundaries.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\obj\Debug\netcoreapp2.0\01.TypeBoundaries.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\obj\Debug\netcoreapp2.0\01.TypeBoundaries.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\obj\Debug\netcoreapp2.0\01.TypeBoundaries.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\obj\Debug\netcoreapp2.0\01.TypeBoundaries.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\obj\Debug\netcoreapp2.0\01.TypeBoundaries.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\01.TypeBoundaries\obj\Debug\netcoreapp2.0\01.TypeBoundaries.pdb

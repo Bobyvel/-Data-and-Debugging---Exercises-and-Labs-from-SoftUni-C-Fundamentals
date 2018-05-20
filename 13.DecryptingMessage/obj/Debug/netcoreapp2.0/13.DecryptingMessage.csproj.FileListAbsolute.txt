@@ -1,0 +1,10 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\13.DecryptingMessage\bin\Debug\netcoreapp2.0\13.DecryptingMessage.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\13.DecryptingMessage\bin\Debug\netcoreapp2.0\13.DecryptingMessage.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\13.DecryptingMessage\bin\Debug\netcoreapp2.0\13.DecryptingMessage.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\13.DecryptingMessage\bin\Debug\netcoreapp2.0\13.DecryptingMessage.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\13.DecryptingMessage\bin\Debug\netcoreapp2.0\13.DecryptingMessage.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\13.DecryptingMessage\obj\Debug\netcoreapp2.0\13.DecryptingMessage.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\13.DecryptingMessage\obj\Debug\netcoreapp2.0\13.DecryptingMessage.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\13.DecryptingMessage\obj\Debug\netcoreapp2.0\13.DecryptingMessage.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\13.DecryptingMessage\obj\Debug\netcoreapp2.0\13.DecryptingMessage.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\13.DecryptingMessage\obj\Debug\netcoreapp2.0\13.DecryptingMessage.pdb

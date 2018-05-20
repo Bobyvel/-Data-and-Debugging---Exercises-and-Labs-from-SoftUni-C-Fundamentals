@@ -1,0 +1,11 @@
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\bin\Debug\netcoreapp2.0\04.Elevator.deps.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\bin\Debug\netcoreapp2.0\04.Elevator.runtimeconfig.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\bin\Debug\netcoreapp2.0\04.Elevator.runtimeconfig.dev.json
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\bin\Debug\netcoreapp2.0\04.Elevator.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\bin\Debug\netcoreapp2.0\04.Elevator.pdb
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\obj\Debug\netcoreapp2.0\04.Elevator.csprojResolveAssemblyReference.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\obj\Debug\netcoreapp2.0\04.Elevator.csproj.CoreCompileInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\obj\Debug\netcoreapp2.0\04.Elevator.AssemblyInfoInputs.cache
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\obj\Debug\netcoreapp2.0\04.Elevator.AssemblyInfo.cs
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\obj\Debug\netcoreapp2.0\04.Elevator.dll
+E:\Programing\MyExerciseC#\Progr. Fundamentals\ProgrFundamentals - Data and Debugging\04.Elevator\obj\Debug\netcoreapp2.0\04.Elevator.pdb
